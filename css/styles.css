@@ -211,10 +211,6 @@ body {
 
 /* Benefits */
 
-.benefits-wrap {
-  margin-bottom: 94px;
-}
-
 .benefits-title {
   display: none;
 }
@@ -238,6 +234,10 @@ body {
 }
 
 /* Examples */
+
+.examples {
+  padding-top: 0;
+}
 
 .examples-title {
   margin-bottom: 50px;
